@@ -16,8 +16,8 @@ FocusClass es una solución informática desarrollada en Python orientada a comb
 3. **Módulo de Gamificación y Enfoque:** Sistema de puntos de recompensa por cada clase asimilada para incentivar el estudio.
 4. **Persistencia de Datos:** Almacenamiento local en formato `.json` para registrar el historial de avance del estudiante.
 
-## 🛠️ Tecnologías Utilizadas
-* **Lenguaje:** Python 3.x
+## 🛠️ Software Utilizados
+* **Lenguaje:** Python 
 * **Librerías Estándar:** `os`, `json`, `re`
 * **Control de Versiones:** Git / GitHub
 
