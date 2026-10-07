@@ -1,9 +1,10 @@
 # FocusClass - Optimización del Tiempo de Estudio y Procesamiento de Clases
 
 **Proyecto Integrador:** El impacto de las nuevas tecnologías en la sociedad: desarrollo y proyección de soluciones informáticas  
-**Asignatura:** Desarrollo de Software / Proyecto Integrador  
-**Autor / Integrante:** Christian Ordoñez  
-**Fecha:** Octubre 2026  
+**Asignatura:** Lógica De Programación 
+**Integrante:** Oscar Montenegro
+**Fecha:** 07 de Octubre 2026
+
 
 ---
 
